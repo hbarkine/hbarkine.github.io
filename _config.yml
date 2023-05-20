@@ -122,7 +122,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        In my journey within the gaming industry, I've been fortunate to have many of my prototypes reach the soft launch stage, a testament to the high standard of my work. I wish to highlight projects in my portfolio where I was either the sole developer or one of the key contributors driving the project forward. Projects where I played a peripheral or support role will not be included, as my focus is on showcasing the ones where my involvement was pivotal.
+        description: |
+          In my journey within the gaming industry, I've been fortunate to have many of my prototypes reach the soft launch stage, a testament to the high standard of my work. I wish to highlight projects in my portfolio where I was either the sole developer or one of the key contributors driving the project forward. Projects where I played a peripheral or support role will not be included, as my focus is on showcasing the ones where my involvement was pivotal.
       - layout: top-middle
         title: Oil Tycoon Idle 3D
         link: https://apps.apple.com/us/app/oil-tycoon-idle-3d/id1621684059
