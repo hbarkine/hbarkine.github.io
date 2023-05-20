@@ -46,15 +46,15 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/vesikalik.png
 about_content: | # this will include new lines to allow paragraphs
   Hello! I'm Haluk Barkin Evgin, a dedicated and passionate software engineer, always eager to learn and grow. My academic journey began at <mark>Middle East Technical University</mark>, where I majored in Electrical and Electronics Engineering. The final year of my study saw a strategic shift as I chose to specialize in Computer Science. This decision, fueled by my deep-rooted curiosity for software development, led me to be recognized with the Bulent Kerim Altay Academic Excellence Award for maintaining a perfect GPA during a semester.
   
-  Even before completing my education, I started my professional journey with <mark>Aselsan</mark>, one of Turkey's leading defense companies, as a part-time software engineer. After graduation, I transitioned to a full-time role, remaining with <mark>Aselsan</mark> for 4 enriching years. During this time, I not only improved my skills and gained valuable experience in the defense industry but also simultaneously pursued a <mark>master's degree</mark> in Computer Science from <mark>Middle East Technical University</mark>, reaffirming my commitment to continuous learning and growth.
+  Even before completing my education, I started my professional journey with <mark>Aselsan</mark>, one of Turkey's leading defense companies, as a part-time software engineer. After graduation, I transitioned to a full-time role, remaining with <mark>Aselsan</mark> for <mark>4</mark> enriching years. During this time, I not only improved my skills and gained valuable experience in the defense industry but also simultaneously pursued a <mark>master's degree</mark> in Computer Science from <mark>Middle East Technical University</mark>, reaffirming my commitment to continuous learning and growth.
   
-  Seeking a new challenge and driven by a desire to contribute to a dynamic and creative field, I made the move to <mark>Brew Games</mark>. For the past 2 years, as a part of the core team of game developers, I've been focused on refining my craft and pushing boundaries in the gaming industry. Leveraging my past experiences and continually exploring new territories in game development, I remain committed to making significant contributions to the ever-evolving tech industry.
+  Seeking a new challenge and driven by a desire to contribute to a dynamic and creative field, I made the move to <mark>Brew Games</mark>. For the past <mark>2</mark> years, as a part of the core team of game developers, I've been focused on refining my craft and pushing boundaries in the gaming industry. Leveraging my past experiences and continually exploring new territories in game development, I remain committed to making significant contributions to the ever-evolving tech industry.
 
-  I am most skilled in: <mark>Unity 3D</mark>, <mark>C#</mark> and <mark>Pyhton</mark>
+  I am most skilled in: <mark>Unity 3D</mark>, <mark>C#</mark> and <mark>Python 3</mark>
 
 content:
   - title: Projects # Title for the section
