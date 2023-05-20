@@ -124,11 +124,11 @@ content:
       - layout: top-middle
         title: Oil Tycoon Idle 3D
         link: https://apps.apple.com/us/app/oil-tycoon-idle-3d/id1621684059
-        # link_text: Project Website
+        link_text: App Store Page
         additional_links:
-          title:  Gameplay Videos
           #  icon: fab fa-github
-          url: https://drive.google.com/drive/folders/1Fs1jugwiXmJT8zdC0HhrYorysG9lIkDs?usp=sharing
+          link: https://drive.google.com/drive/folders/1Fs1jugwiXmJT8zdC0HhrYorysG9lIkDs?usp=sharing
+          link_text: Videos
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -138,11 +138,6 @@ content:
       - layout: top-middle
         title: Oil Tycoon Idle 3D
         link: https://apps.apple.com/us/app/oil-tycoon-idle-3d/id1621684059
-        # link_text: Project Website
-        additional_links:
-          title:  Gameplay Videos
-          #  icon: fab fa-github
-          url: https://drive.google.com/drive/folders/1Fs1jugwiXmJT8zdC0HhrYorysG9lIkDs?usp=sharing
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
