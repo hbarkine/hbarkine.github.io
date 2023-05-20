@@ -171,6 +171,17 @@ content:
           Though this game's development was halted after initial tests, I still consider it a significant part of my portfolio, as I was the sole developer on this prototype. As mobile developers, we consistently strive for marketable concepts, and while the theme of horses may not fit this criteria, the limited development time spent on this game serves as a testament to my rapid prototyping skills, which is why I'm keen on showcasing it. Also I am pretty satisfied with the horse riding mechanics.
 
 
+      - layout: top-middle
+        title: Wedding Planner - DIY!
+        link: https://apps.apple.com/us/app/wedding-planner-diy/id6446688300
+        link_text: App Store Page
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          In the development cycle of this game, my main responsibility was to develop and maintain upgrade and <mark>UI</mark> systems. So in order to showcase my UI programming abilities, I wanted to include this game in my portfolio.
+          
+
 
 
   - title: A Little More About Me
