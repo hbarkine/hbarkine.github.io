@@ -121,12 +121,13 @@ content:
   - title: Game Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         description: |
           In my journey within the gaming industry, I've been fortunate to have many of my prototypes reach the soft launch stage, a testament to the high standard of my work. I wish to highlight projects in my portfolio where I was either the sole developer or one of the key contributors driving the project forward. Projects where I played a peripheral or support role will not be included, as my focus is on showcasing the ones where my involvement was pivotal.
       - layout: top-middle
         title: Oil Tycoon Idle 3D
         link: https://apps.apple.com/us/app/oil-tycoon-idle-3d/id1621684059
+        link_text: App Store Page
         additional_links:
           #  icon: fab fa-github
           link: https://drive.google.com/drive/folders/1Fs1jugwiXmJT8zdC0HhrYorysG9lIkDs?usp=sharing
@@ -140,13 +141,37 @@ content:
       - layout: top-middle
         title: Clean Streets 3D
         link: https://apps.apple.com/id/app/clean-streets-3d/id1637077364
+        link_text: App Store Page
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           Although the marketibility of this game has not been very successful after the soft launch phase, as a team we are very proud with the quality of the physics control of the vehicle that we introduced to this game. As a tecnhical showcase I wanted to include this game in my portfolio.
           
-          
+
+      - layout: top-middle
+        title: Color Slice Fun 3D
+        link: https://apps.apple.com/us/app/color-slice-fun-3d/id6444259329
+        link_text: App Store Page
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          Despite the technical simplicity commonly associated with runner games, I aimed to enhance its marketability by introducing and developing vertex shaders for dynamic visual effects on various obstacles. The principal reason for including this project in my portfolio is to highlight this unique technical attribute. I strongly recommend experiencing this game on a device firsthand, as the marketing creatives may not fully encapsulate its features due to marketability considerations. 
+
+
+      - layout: top-middle
+        title: Horse Dreams Ride & Race!
+        link: https://apps.apple.com/us/app/horse-dreams-ride-race/id6446779021
+        link_text: App Store Page
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          Though this game's development was halted after initial tests, I still consider it a significant part of my portfolio, as I was the sole developer on this prototype. As mobile developers, we consistently strive for marketable concepts, and while the theme of horses may not fit this criteria, the limited development time spent on this game serves as a testament to my rapid prototyping skills, which is why I'm keen on showcasing it.    
+
+
+
 
   - title: A Little More About Me
     layout: text
