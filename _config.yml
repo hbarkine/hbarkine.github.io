@@ -121,11 +121,6 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-
-      - layout: top-middle
-        title: ASELSAN Inc.
-        description: | # this will include new lines to allow paragraphs
-        It is not possible for me to share my projects from ASELSAN due to the confidentiality of the information. Still the techinal details can be seen from experience field.
       - layout: top-middle
         title: Oil Tycoon Idle 3D
         link: https://apps.apple.com/us/app/oil-tycoon-idle-3d/id1621684059
