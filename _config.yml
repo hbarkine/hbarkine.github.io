@@ -53,6 +53,8 @@ about_content: | # this will include new lines to allow paragraphs
   Even before completing my education, I started my professional journey with <mark>Aselsan</mark>, one of Turkey's leading defense companies, as a part-time software engineer. After graduation, I transitioned to a full-time role, remaining with <mark>Aselsan</mark> for <mark>4</mark> enriching years. During this time, I not only improved my skills and gained valuable experience in the defense industry but also simultaneously pursued a <mark>master's degree</mark> in Computer Science from <mark>Middle East Technical University</mark>, reaffirming my commitment to continuous learning and growth.
   
   Seeking a new challenge and driven by a desire to contribute to a dynamic and creative field, I made the move to <mark>Brew Games</mark>. For the past <mark>2</mark> years, as a part of the core team of game developers, I've been focused on refining my craft and pushing boundaries in the gaming industry. Leveraging my past experiences and continually exploring new territories in game development, I remain committed to making significant contributions to the ever-evolving tech industry.
+  
+  I hold strong expertise in <mark>Unity, C#, Python, and C++,</mark> forming the core of my technical skill set.
 
 content:
 
@@ -119,6 +121,11 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+      - layout: top-middle
+        title: ASELSAN Inc.
+        description: | # this will include new lines to allow paragraphs
+        It is not possible for me to share my projects from ASELSAN due to the confidentiality of the information. Still the techinal details can be seen from experience field.
       - layout: top-middle
         title: Super awesome project
         link: github.com/sproogen
