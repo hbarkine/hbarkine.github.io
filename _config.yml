@@ -146,7 +146,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          Although the marketibility of this game has not been very successful after the soft launch phase, as a team we are very proud with the quality of the </mark>physics<mark> control of the vehicle that we introduced to this game. As a tecnhical showcase I wanted to include this game in my portfolio.
+          Although the marketibility of this game has not been very successful after the soft launch phase, as a team we are very proud with the quality of the <mark>physics</mark> control of the vehicle that we introduced to this game. As a tecnhical showcase I wanted to include this game in my portfolio.
           
 
       - layout: top-middle
