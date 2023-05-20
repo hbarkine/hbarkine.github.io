@@ -126,14 +126,30 @@ content:
         link: https://apps.apple.com/us/app/oil-tycoon-idle-3d/id1621684059
         # link_text: Project Website
         additional_links:
-          - title:  Gameplay Videos
+          title:  Gameplay Videos
           #  icon: fab fa-github
-            url: https://drive.google.com/drive/folders/1Fs1jugwiXmJT8zdC0HhrYorysG9lIkDs?usp=sharing
+          url: https://drive.google.com/drive/folders/1Fs1jugwiXmJT8zdC0HhrYorysG9lIkDs?usp=sharing
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           As the only developer for this project, which marked one of our company's initial soft launches with an external publisher, I take immense pride in the quality of the end product. Given my exclusive involvement in this project, I consider it a significant highlight in my portfolio, deserving of primary emphasis.  
+  
+      - layout: top-middle
+        title: Oil Tycoon Idle 3D
+        link: https://apps.apple.com/us/app/oil-tycoon-idle-3d/id1621684059
+        # link_text: Project Website
+        additional_links:
+          title:  Gameplay Videos
+          #  icon: fab fa-github
+          url: https://drive.google.com/drive/folders/1Fs1jugwiXmJT8zdC0HhrYorysG9lIkDs?usp=sharing
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          As the only developer for this project, which marked one of our company's initial soft launches with an external publisher, I take immense pride in the quality of the end product. Given my exclusive involvement in this project, I consider it a significant highlight in my portfolio, deserving of primary emphasis.
+          
+          
 
   - title: A Little More About Me
     layout: text
