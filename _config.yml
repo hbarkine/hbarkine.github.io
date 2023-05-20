@@ -125,15 +125,15 @@ content:
         title: Oil Tycoon Idle 3D
         link: https://apps.apple.com/us/app/oil-tycoon-idle-3d/id1621684059
         # link_text: Project Website
-        #additional_links:
-         # - title:  sproogen/modern-resume-theme
+        additional_links:
+          - title:  Gameplay Videos
           #  icon: fab fa-github
-           # url: github.com/sproogen/modern-resume-theme
+            url: https://drive.google.com/drive/folders/1Fs1jugwiXmJT8zdC0HhrYorysG9lIkDs?usp=sharing
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          As the only developer for this project, which marked one of our company's initial soft launches with an external publisher, I take immense pride in the quality of the end product. Given my exclusive involvement in this project, I consider it a significant highlight in my portfolio, deserving of primary emphasis.  
 
   - title: A Little More About Me
     layout: text
