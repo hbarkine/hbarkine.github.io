@@ -118,13 +118,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           Throughout my Master's Degree, I delved into the utilization of Deep Learning in Biomedical applications. My academic contributions culminated in a scholarly publication focusing on the application of Deep Learning in a specialized area within the field. This research has been acknowledged by the academic community, accruing 13 official citations from the IEEE. The primary tool for the software development involved in this research was Python.
 
-  - title: Projects # Title for the section
+  - title: Game Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        In my journey within the gaming industry, I've been fortunate to have many of my prototypes reach the soft launch stage, a testament to the high standard of my work. I wish to highlight projects in my portfolio where I was either the sole developer or one of the key contributors driving the project forward. Projects where I played a peripheral or support role will not be included, as my focus is on showcasing the ones where my involvement was pivotal.
       - layout: top-middle
         title: Oil Tycoon Idle 3D
         link: https://apps.apple.com/us/app/oil-tycoon-idle-3d/id1621684059
-        link_text: App Store Page
         additional_links:
           #  icon: fab fa-github
           link: https://drive.google.com/drive/folders/1Fs1jugwiXmJT8zdC0HhrYorysG9lIkDs?usp=sharing
@@ -136,13 +137,13 @@ content:
           As the only developer for this project, which marked one of our company's initial soft launches with an external publisher, I take immense pride in the quality of the end product. Given my exclusive involvement in this project, I consider it a significant highlight in my portfolio, deserving of primary emphasis.  
   
       - layout: top-middle
-        title: Oil Tycoon Idle 3D
-        link: https://apps.apple.com/us/app/oil-tycoon-idle-3d/id1621684059
+        title: Clean Streets 3D
+        link: https://apps.apple.com/id/app/clean-streets-3d/id1637077364
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          As the only developer for this project, which marked one of our company's initial soft launches with an external publisher, I take immense pride in the quality of the end product. Given my exclusive involvement in this project, I consider it a significant highlight in my portfolio, deserving of primary emphasis.
+          Although the marketibility of this game has not been very successful after the soft launch phase, as a team we are very proud with the quality of the physics control of the vehicle that we introduced to this game. As a tecnhical showcase I wanted to include this game in my portfolio.
           
           
 
