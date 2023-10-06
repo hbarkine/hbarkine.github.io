@@ -58,7 +58,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   I hold strong expertise in <mark>Unity, C#, Python, and C++,</mark> forming the core of my technical skill set.
 
+
 content:
+  - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
