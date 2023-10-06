@@ -77,6 +77,7 @@ content:
           - Contributed to client-side development for "Uptown Bingo," a multiplayer Unity project.
           - Managed server integrations, authoring responsive C# client code within Unity.
           - Seamlessly integrated third-party tools and frameworks to enhance game functionality.
+
       - layout: left
         title: Brew Games
         link: brew-games.com
@@ -93,6 +94,7 @@ content:
           - Leading a team composed of developers and game artists.
           - Helping to the development of a SDK for the self publishing needs
           - Developing and maintaining <mark>CI</mark> (Continuous Integration) systems based of <mark>JENKINS</mark> for automatizing publishing and testing processes.
+
         - layout: left
           title: ASELSAN Inc. 
           link: aselsan.com/en
