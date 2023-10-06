@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 #twitter_username: facespics
-github_username:  hbarkine
+# github_username:  hbarkine
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -30,10 +30,10 @@ linkedin_username: haluk-barkın-evgin-770907159
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -59,7 +59,6 @@ about_content: | # this will include new lines to allow paragraphs
   I hold strong expertise in <mark>Unity, C#, Python, and C++,</mark> forming the core of my technical skill set.
 
 content:
-
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
