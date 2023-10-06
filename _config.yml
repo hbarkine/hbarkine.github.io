@@ -60,9 +60,12 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 
+  - title: Work Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
       - layout: left
         title: GamePoint BV
-        link: gamepoint.biz/
+        link: gamepoint.biz
         # link_text: boringcompany.com
         sub_title: Game/Software Developer
         caption: September 2023 - Present
@@ -90,9 +93,6 @@ content:
         - Leading a team composed of developers and game artists.
         - Helping to the development of a SDK for the self publishing needs
         - Developing and maintaining <mark>CI</mark> (Continuous Integration) systems based of <mark>JENKINS</mark> for automatizing publishing and testing processes.
-  - title: Work Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: ASELSAN Inc. 
         link: aselsan.com/en
@@ -108,7 +108,7 @@ content:
           - Developing Simulink models for spatial calculations and coordinate conversions for these simulations. Generating real time codes from these models and integrating these models to real time loop.
           - Verification and Testing of the abovementioned software using several arm based systems.
           - Development of software for various RF Radar System Simulators using <mark>C++</mark> and <mark>Python</mark>.
-          - Developing Test and Validation software and GUIs using Visual <mark>C#</mark> on <mark>.Net</mark>.
+          - Developing Test and Validation software and GUIs using Visual <mark>C#</mark> on <mark>.Net</mark> Environment.
 
 
   - title: Education # Title for the section
