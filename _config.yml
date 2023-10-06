@@ -54,10 +54,42 @@ about_content: | # this will include new lines to allow paragraphs
   
   Seeking a new challenge and driven by a desire to contribute to a dynamic and creative field, I made the move to <mark>Brew Games</mark>. For the past <mark>2</mark> years, as a part of the core team of game developers, I've been focused on refining my craft and pushing boundaries in the gaming industry. Leveraging my past experiences and continually exploring new territories in game development, I remain committed to making significant contributions to the ever-evolving tech industry.
   
+  Recently, my journey led me to the heart of the European gaming industry in the Netherlands, where I've taken on the role of a Unity Developer at <mark>GamePoint BV</mark>. In this role, I've been pivotal in the development and optimization of <mark>"Uptown Bingo,"</mark> a captivating multiplayer bingo game. Handling the Unity client side, with occasional diving into server-side integrations,
+
   I hold strong expertise in <mark>Unity, C#, Python, and C++,</mark> forming the core of my technical skill set.
 
 content:
 
+      - layout: left
+        title: GamePoint BV
+        link: gamepoint.biz/
+        # link_text: boringcompany.com
+        sub_title: Game/Software Developer
+        caption: September 2023 - Present
+        quote: >
+          Established in 2000, GamePoint BV is a leading European gaming company, renowned for its diverse range of multiplayer social games that captivate and connect players worldwide.
+        description: | # this will include new lines to allow paragraphs
+          Main responsibility is developing client (Unity) side of the project Uptown Bingo. 
+          Major tasks are listed below:
+          - Contributed to client-side development for "Uptown Bingo," a multiplayer Unity project.
+          - Managed server integrations, authoring responsive C# client code within Unity.
+          - Seamlessly integrated third-party tools and frameworks to enhance game functionality.
+    - layout: left
+      title: Brew Games
+      link: brew-games.com
+      # link_text: boringcompany.com
+      sub_title: Game/Software Developer
+      caption: May 2021 - September 2023
+      quote: >
+        Established in 2021, Brew Games is an Innovative company that is specialized on developing games on Hybrid-Casual Genre.
+      description: | # this will include new lines to allow paragraphs
+        Main responsibility is developing Gameplay code for games that are being published. 
+        Major tasks are listed below:
+        - Development of games using <mark>Unity</mark> 3D and 2D using <mark>C#</mark> programming language 
+        - Maintaining development tools that can be used to generate games in specific genres. 
+        - Leading a team composed of developers and game artists.
+        - Helping to the development of a SDK for the self publishing needs
+        - Developing and maintaining <mark>CI</mark> (Continuous Integration) systems based of <mark>JENKINS</mark> for automatizing publishing and testing processes.
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -78,22 +110,6 @@ content:
           - Development of software for various RF Radar System Simulators using <mark>C++</mark> and <mark>Python</mark>.
           - Developing Test and Validation software and GUIs using Visual <mark>C#</mark> on <mark>.Net</mark>.
 
-      - layout: left
-        title: Brew Games
-        link: brew-games.com
-        # link_text: boringcompany.com
-        sub_title: Game/Software Developer
-        caption: May 2021 - Present
-        quote: >
-          Established in 2021, Brew Games is an Innovative company that is specialized on developing games on Hybrid-Casual Genre.
-        description: | # this will include new lines to allow paragraphs
-          Main responsibility is developing Gameplay code for games that are being published. 
-          Major tasks are listed below:
-          - Development of games using <mark>Unity</mark> 3D and 2D using <mark>C#</mark> programming language 
-          - Maintaining development tools that can be used to generate games in specific genres. 
-          - Leading a team composed of developers and game artists.
-          - Helping to the development of a SDK for the self publishing needs
-          - Developing and maintaining <mark>CI</mark> (Continuous Integration) systems based of <mark>JENKINS</mark> for automatizing publishing and testing processes.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -123,7 +139,7 @@ content:
     content:
       - layout: top-middle
         description: |
-          In my journey within the gaming industry, I've been fortunate to have many of my prototypes reach the soft launch stage, a testament to the high standard of my work. I wish to highlight <mark>5</mark> projects in my portfolio where I was either the sole developer or one of the key contributors driving the project forward. Projects where I played a peripheral or support role will not be included, as my focus is on showcasing the ones where my involvement was pivotal.
+          In my journey within the gaming industry, I've been fortunate to have many of my prototypes reach the soft launch stage, a testament to the high standard of my work. I wish to highlight <mark>5</mark> projects in my portfolio where I was either the sole developer or one of the key contributors driving the project forward. Projects where I played a peripheral or support role will not be included, as my focus is on showcasing the ones where my involvement was pivotal. Please note that these projects are developed in the span of Brew Games.
       - layout: top-middle
         title: Oil Tycoon Idle 3D
         link: https://apps.apple.com/us/app/oil-tycoon-idle-3d/id1621684059
