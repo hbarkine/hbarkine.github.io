@@ -64,7 +64,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: GamePoint BV
+        title: GamePoint BV (Netherlands - Remote from Turkey)
         link: gamepoint.biz
         # link_text: boringcompany.com
         sub_title: Game/Software Developer
@@ -79,7 +79,7 @@ content:
           - Seamlessly integrated third-party tools and frameworks to enhance game functionality.
 
       - layout: left
-        title: Brew Games
+        title: Brew Games (Turkey)
         link: brew-games.com
         # link_text: boringcompany.com
         sub_title: Game/Software Developer
@@ -95,7 +95,7 @@ content:
           - Helping to the development of a SDK for the self publishing needs
           - Developing and maintaining <mark>CI</mark> (Continuous Integration) systems based of <mark>JENKINS</mark> for automatizing publishing and testing processes.
       - layout: left
-        title: ASELSAN Inc. 
+        title: ASELSAN Inc. (Turkey)
         link: aselsan.com/en
         # link_text: boringcompany.com
         sub_title: Software Engineer
