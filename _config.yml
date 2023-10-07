@@ -79,22 +79,6 @@ content:
           - Seamlessly integrated third-party tools and frameworks to enhance game functionality.
 
       - layout: left
-        title: ASELSAN Inc. 
-        link: aselsan.com/en
-        # link_text: boringcompany.com
-        sub_title: Software Engineer
-        caption: January 2017 - May 2021
-        quote: >
-          Established in 1975, ASELSAN Inc. is a leading Turkish company known for producing cutting-edge electronic systems and technologies for defense, security, traffic, and energy sectors.
-        description: | # this will include new lines to allow paragraphs
-          Main responsibility is developing software for radar simulators and flight simulations. 
-          Major tasks are listed below:
-          - Development of software for communications between SUT (System under Test) and System, using different communication protocols <mark>(TCP - UDP - RS232/422)</mark> and integrating these software to real time loops. These software are developed using <mark>C++</mark> on a real time <mark>Linux</mark> distribution. 
-          - Developing Simulink models for spatial calculations and coordinate conversions for these simulations. Generating real time codes from these models and integrating these models to real time loop.
-          - Verification and Testing of the abovementioned software using several arm based systems.
-          - Development of software for various RF Radar System Simulators using <mark>C++</mark> and <mark>Python</mark>.
-          - Developing Test and Validation software and GUIs using Visual <mark>C#</mark> on <mark>.Net</mark> Environment.
-      - layout: left
         title: Brew Games
         link: brew-games.com
         # link_text: boringcompany.com
@@ -110,6 +94,22 @@ content:
           - Leading a team composed of developers and game artists.
           - Helping to the development of a SDK for the self publishing needs
           - Developing and maintaining <mark>CI</mark> (Continuous Integration) systems based of <mark>JENKINS</mark> for automatizing publishing and testing processes.
+      - layout: left
+        title: ASELSAN Inc. 
+        link: aselsan.com/en
+        # link_text: boringcompany.com
+        sub_title: Software Engineer
+        caption: January 2017 - May 2021
+        quote: >
+          Established in 1975, ASELSAN Inc. is a leading Turkish company known for producing cutting-edge electronic systems and technologies for defense, security, traffic, and energy sectors.
+        description: | # this will include new lines to allow paragraphs
+          Main responsibility is developing software for radar simulators and flight simulations. 
+          Major tasks are listed below:
+          - Development of software for communications between SUT (System under Test) and System, using different communication protocols <mark>(TCP - UDP - RS232/422)</mark> and integrating these software to real time loops. These software are developed using <mark>C++</mark> on a real time <mark>Linux</mark> distribution. 
+          - Developing Simulink models for spatial calculations and coordinate conversions for these simulations. Generating real time codes from these models and integrating these models to real time loop.
+          - Verification and Testing of the abovementioned software using several arm based systems.
+          - Development of software for various RF Radar System Simulators using <mark>C++</mark> and <mark>Python</mark>.
+          - Developing Test and Validation software and GUIs using Visual <mark>C#</mark> on <mark>.Net</mark> Environment.
 
 
 
